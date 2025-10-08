@@ -119,6 +119,7 @@ def print_calendar(first_sunday: int, number_of_days: int):
 
 
 def main():
+    # Some test cases
     print_calendar(3, 30)
     print()
     print_calendar(1, 31)
