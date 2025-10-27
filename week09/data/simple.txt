@@ -1,0 +1,8 @@
+Hello,
+it is a pleasure to write
+in clear text, the most
+unambiguous way to share
+data across computer
+systems.
+Sincerely,
+  Leo
