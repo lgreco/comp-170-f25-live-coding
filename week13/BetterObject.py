@@ -43,6 +43,7 @@ class PAM:
         return existing_value
 
     def _index_of(self, key) -> int:
+        # BEYOND SCOPE OF COMP 170
         index_of = -1
         i = 0
         found = False
@@ -73,6 +74,7 @@ class PAM:
         return records
     
     def _get_data(self, column):
+        # BEYOND SCOPE OF COMP 170
         data_from_records = []
         for record in self._underlying:
             data_from_records.append(record[column])
